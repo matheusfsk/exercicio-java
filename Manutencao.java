@@ -1,0 +1,3 @@
+interface Manutencao {
+    String realizarManutencao();
+}
